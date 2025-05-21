@@ -27,7 +27,7 @@ This repository is a comprehensive collection of Advanced Java programs and conc
 📄 1c_Linked_List-
 
 1. LinkedListIterationFromSecond.java :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1c_Linked_List/Screenshot-1c_LinkedList_IterationFromSecond.png)
-2. LinkedListReverseIteration.java    :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1c_Linked_List/Screenshot-1c_LinkedList_ReverseIteration.png)
+2. LinkedListReverseIteration.java   :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1c_Linked_List/Screenshot-1c_LinkedList_ReverseIteration.png)
 3. LinkedListOfferLast.java           :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1c_Linked_List/Screenshot-1c_LinkedList_OfferLast.png)
 4. LinkedListElementWithPosition.java :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1c_Linked_List/Screenshot-1c_LinkedList_ElementWithPosition.png)
 5. LinkedListSwapElements.java        :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1c_Linked_List/Screenshot-1c_LinkedList_SwapElements.png)
