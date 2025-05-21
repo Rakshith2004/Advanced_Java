@@ -126,82 +126,82 @@ FactorialServlet.java :- [Output Screenshot](https://github.com/Rakshith2004/Adv
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 6b_CookieServlet-
-CookieServlet.java :- [Output Screenshot]()
+CookieServlet.java :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-6_servlet_programs/6b_CookieServlet/Screenshot-6b_CookieServlet.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 6c_PrimeServlet-
-PrimeServlet.java :- [Output Screenshot]()
+PrimeServlet.java :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-6_servlet_programs/6c_PrimeServlet/Screenshot-6c_PrimeServlet.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 ## 📁 EXP-7a_JSP_Session_Management :
 
-welcome.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-7a_JSP_Session_Management/Screenshot-7a_Session_Management.png)
+welcome.jsp :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-7a_JSP_Session_Management/Screenshot-7a_Session_Management.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 ## 📁 EXP-7b_JSP_Cookie_Management :
 
-setCookie.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-7b_JSP_Cookie_Management/Screenshot-7b_Cookie_Management.png)
+setCookie.jsp :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-7b_JSP_Cookie_Management/Screenshot-7b_Cookie_Management.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 ## 📁 EXP-8_JDBC_+_SQL :
 
-## 🐬 MySql_Setup :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/MySQL_Setup
+## 🐬 MySql_Setup :- (https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-8_JDBC_%2B_SQL/MySQL_Setup)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 8a_Insert_Coffee-
-insert_coffee.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8a_Insert_Coffee/8a1.png) ||
-2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8a_Insert_Coffee/8a2.png)
+insert_coffee.jsp :- 1-[Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-8_JDBC_%2B_SQL/8a_Insert_Coffee/8a1.png) ||
+2-[Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-8_JDBC_%2B_SQL/8a_Insert_Coffee/8a2.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 8b_Update_Coffee-
-update_coffee.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8b_Update_Coffee/8b1.png) ||
-2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8b_Update_Coffee/8b2.png)
+update_coffee.jsp :- 1-[Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-8_JDBC_%2B_SQL/8b_Update_Coffee/8b1.png) ||
+2-[Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-8_JDBC_%2B_SQL/8b_Update_Coffee/8b2.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 8c_JDBC_Append_Emp-
-insert_emp.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8c_JDBC_Append_Emp/Screenshot-8c_JDBC_append.png)
+insert_emp.jsp :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-8_JDBC_%2B_SQL/8c_JDBC_Append_Emp/Screenshot-8c_JDBC_append.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 8d_JDBC_Update_Emp-
-update_emp.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-8_JDBC_%2B_SQL/8d_JDBC_Update_Emp/Screenshot-8d_JDBC_Update.png)
+update_emp.jsp :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-8_JDBC_%2B_SQL/8d_JDBC_Update_Emp/Screenshot-8d_JDBC_Update.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 ## 📁 EXP-9_JDBC_+_SQL :
 
-## 🐬 MySql_Setup :- (https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/MySQL_Setup)
+## 🐬 MySql_Setup :- (https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-9_JDBC_%2B_SQL/MySQL_Setup)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 9a_Delete_Coffee- 
-delete_coffee.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9a_Delete_Coffee/9a1.png) ||
-2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9a_Delete_Coffee/9a2.png)
+delete_coffee.jsp :- 1-[Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-9_JDBC_%2B_SQL/9a_Delete_Coffee/9a1.png) ||
+2-[Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-9_JDBC_%2B_SQL/9a_Delete_Coffee/9a2.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 9b_Query_Coffee-
-query_coffee.jsp :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9b_Query_Coffee/9b1.png)
+query_coffee.jsp :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-9_JDBC_%2B_SQL/9b_Query_Coffee/9b1.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 9c_JDBC_Append- 
-append.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9c_JDBC_Append/9c1.png) ||
-2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9c_JDBC_Append/9c2.png)
+append.jsp :- 1-[Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-9_JDBC_%2B_SQL/9c_JDBC_Append/9c1.jpg) ||
+2-[Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-9_JDBC_+_SQL/9c_JDBC_Append/9c2%20.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📁 9d_JDBC_Delete-
-delete.jsp :- 1-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9d_JDBC_Delete/9d1.png) ||
-2-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9d_JDBC_Delete/9d2.png) ||
-3-[Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-9_JDBC_%2B_SQL/9d_JDBC_Delete/9d3.png)
+delete.jsp :- 1-[Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-9_JDBC_%2B_SQL/9d_JDBC_Delete/9da.png) ||
+2-[Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-9_JDBC_%2B_SQL/9d_JDBC_Delete/9db.png) ||
+3-[Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-9_JDBC_%2B_SQL/9d_JDBC_Delete/9dc.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
