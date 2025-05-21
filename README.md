@@ -125,7 +125,7 @@ FactorialServlet.java :- [Output Screenshot](https://github.com/Rakshith2004/Adv
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
 📄 6b_CookieServlet-
-CookieServlet.java :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-6_servlet_programs/6b_CookieServlet/Screenshot-6b_CookieServlet.jpg)
+CookieServlet.java  :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-6_servlet_programs/6b_CookieServlet/Screenshot-6b_CookieServlet.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------------------------  
 
