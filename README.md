@@ -11,7 +11,7 @@ Ideal for 📚 academic reference, 💼 interview preparation, and 🔧 real-wor
 
 📁 1a_List_Operations-
 
-1a. ListOperations.java :- [Output Screenshot](https://github.com/PadmarajKurundwade07/Advanced-JAVA/blob/main/EXP-1_List_Operations/1a_List_Operations/Screenshot-1a_ListOperations.png)
+1a. ListOperations.java :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1a_List_Operations/Screenshot-1a_ListOperations.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------- 
 
