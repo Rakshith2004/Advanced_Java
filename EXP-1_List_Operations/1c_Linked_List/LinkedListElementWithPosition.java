@@ -5,7 +5,7 @@ Write a Java program to display elements and their positions in a linked list ( 
 package linkedList;
 import java.util.LinkedList;
 
-public class LinkedListElementWithPosition {
+public class LinkedListElementWithPositio {
     public static void main(String[] args) {
         LinkedList<String> colors = new LinkedList<>();
         colors.add("Red");
