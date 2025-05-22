@@ -15,7 +15,7 @@ public class LinkedListIterationFromSecond {
         colors.add("Blue");
         colors.add("Green");
         colors.add("Yellow");
-
+        
         // Start iterating from index 1 (i.e., 2nd element)
         ListIterator<String> iterator = colors.listIterator(1);
         System.out.println("Iterating from the 2nd element:");
