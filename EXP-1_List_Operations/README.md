@@ -8,7 +8,7 @@
 
 📄 1b_Array_List-
 
-1. ColorSearch.java        :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1b_Array_List/Screenshot%201b_arraylist_ColorSearch.png)
+1. ColorSearch.java       :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1b_Array_List/Screenshot%201b_arraylist_ColorSearch.png)
 2. ColorRemoval.java       :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1b_Array_List/Screenshot%201b_arraylist_ColorRemoval.png)
 3. ColorSort.java          :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1b_Array_List/Screenshot%201b_arraylist_ColorSort.png)
 4. ColorSubList.java       :- [Output Screenshot](https://github.com/Rakshith2004/Advanced_Java/blob/main/EXP-1_List_Operations/1b_Array_List/Screenshot%201b_arraylist_ColorSublist.png)
